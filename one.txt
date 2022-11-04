@@ -1,17 +1,5 @@
-
-<<<<<<< HEAD
-aaaaa
-=======
-
-
-
-
-
-
-
-
-
-branch main changes
+new document vscode
+//new changes
 
 merge main and main
 >>>>>>> main
