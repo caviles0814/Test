@@ -1,6 +1,7 @@
 new document vscode
 //new changes
 
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,6 @@ new document vscode
 
 
 branch main changes
+=======
+changes from gitHub repo
+>>>>>>> master
